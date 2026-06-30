@@ -1,6 +1,6 @@
-# 📊 Data Analysis End-to-End Projects
+# 📊 Data Analysis  Projects
 
-Welcome to the **Data Analysis End-to-End Projects** repository 🚀
+Welcome to the **Data Analysis Projects** repository 🚀
 
 This repository showcases the complete workflow of transforming raw data into actionable insights through a structured and professional data analysis process.
 
@@ -8,7 +8,7 @@ The goal is to demonstrate how data analysts solve real-world problems by follow
 
 ---
 
-# 🎯 What is End-to-End Data Analysis?
+# 🎯 What is Data Analysis?
 
 End-to-End Data Analysis is the process of handling data throughout its entire lifecycle:
 
